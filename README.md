@@ -34,4 +34,4 @@ This project demonstrates how to manage global state with Redux, dispatch action
 1. Clone the repository:
    ```bash
    git clone https://github.com/Aneesh0009/counter-react-redux.git
-   cd react-redux-counter
+   cd counter-react-redux
